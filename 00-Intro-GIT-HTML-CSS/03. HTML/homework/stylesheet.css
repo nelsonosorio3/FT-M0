@@ -1,15 +1,36 @@
 h1 {
     color: green;
+    margin: auto;
+    width: 30%;
+    align-content: center;
+}
+h2 {
+    margin: auto;
+    width: 20%;
+    align-content: center;
+}
+h3 {
+    margin: auto;
+    width: 30%;
+}
+p {
+    margin: auto;
+    width: 20%;
+    align-content: center;
 }
 img {
     width: 400px; 
-    height: 300px;
+    height: 250px;
 }
 body {
     background-image: url("https://cdna.artstation.com/p/assets/images/images/009/647/682/large/martin-novak-wood-texture.jpg?1520148399");
-    background-repeat: repeat;
+
 }
+div {
+    margin: auto;
+    width: 60%;
 }
+
 #thirdDiv {
     height: 600px; 
     width: 500; 
