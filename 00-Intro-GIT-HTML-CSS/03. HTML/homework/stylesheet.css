@@ -13,11 +13,6 @@ h3 {
     margin: auto;
     width: 30%;
 }
-p {
-    margin: auto;
-    width: 20%;
-    align-content: center;
-}
 img {
     width: 400px; 
     height: 250px;
@@ -30,13 +25,9 @@ div {
     margin: auto;
     width: 60%;
 }
-ul {
-    margin: auto;
-    width: 30%;
-}
 #thirdDiv {
     height: 600px; 
-    width: 500; 
+    width: 500px; 
     background-color: grey; 
     padding: 50px; 
     border-style: double; 
