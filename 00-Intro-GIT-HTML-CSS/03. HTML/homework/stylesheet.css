@@ -1,11 +1,13 @@
 h1 {
-    color: green
+    color: green;
 }
 img {
     width: 400px; 
     height: 300px;
+}
 body {
-    background-image: url("https://media.freestocktextures.com/cache/2c/cd/2ccdc50f379f91ad26fb989b6b6d00ad.jpg");
+    background-image: url("https://cdna.artstation.com/p/assets/images/images/009/647/682/large/martin-novak-wood-texture.jpg?1520148399");
+    background-repeat: repeat;
 }
 }
 #thirdDiv {
