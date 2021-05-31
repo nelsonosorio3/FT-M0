@@ -1,8 +1,12 @@
 h1 {
-    color: green}
+    color: green
+}
 img {
     width: 400px; 
     height: 300px;
+body {
+    background-image: url("https://media.freestocktextures.com/cache/2c/cd/2ccdc50f379f91ad26fb989b6b6d00ad.jpg");
+}
 }
 #thirdDiv {
     height: 600px; 
