@@ -30,7 +30,10 @@ div {
     margin: auto;
     width: 60%;
 }
-
+ul {
+    margin: auto;
+    width: 30%;
+}
 #thirdDiv {
     height: 600px; 
     width: 500; 
