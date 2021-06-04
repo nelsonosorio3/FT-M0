@@ -286,7 +286,7 @@ function esVocal(letra){
   {
     mensaje = "Dato incorrecto";
   }
-  else if (letra == "a" || letra == "e" ||letra == "i" ||letra == "o" ||letra == "u")
+  else if (letra === "a" || letra === "e" ||letra === "i" ||letra === "o" ||letra === "u")
   {
     mensaje = "Es vocal";
   }
