@@ -182,11 +182,13 @@ function esPrimo(numero) {
   // Pista 2: Puedes resolverlo usando un bucle `for`
   // Nota: Los números 0 y 1 NO son considerados números primos
   var i;
+  var raiz = Math.sqrt(numero);
+  var raizRedondeada = Math.ceil(raiz);
   if(numero === 0 || numero === 1) {
     return false;
   }
-  for(i = 2; i < numero ; i++) {
-    if(Number.isInteger(numero / i)) {
+  for(i = 2; i < raizRedondeada; i++) {
+    if(numero % i === 0) {
       return false;
     }
   }
